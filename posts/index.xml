@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - alimosaad</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | alimosaad</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>alimosaad573@gmail.com (Ali Mosaad)</managingEditor>
+            <webMaster>alimosaad573@gmail.com (Ali Mosaad)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 22 Jul 2025 21:13:00 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Simple Api Using Spring FrameWork</title>
+    <link>http://localhost:1313/posts/simpleapi/simpleapi/</link>
+    <pubDate>Tue, 22 Jul 2025 21:13:00 &#43;0300</pubDate>
+    <author>Ali Mosaad</author>
+    <guid>http://localhost:1313/posts/simpleapi/simpleapi/</guid>
+    <description><![CDATA[<h1 id="how-to-create-api-using-spring-framework">How to Create API Using Spring FrameWork</h1>
+<h2 id="introduction">Introduction</h2>
+<p>We need to establish communication between a client(applications) and a
+server or establish communication between two backend services.
+This is REST APIs come into play.</p>
+<h2 id="what-is-rest">What is REST?</h2>
+<p>REST stands for REpresentational State Transfer. REST was an architectural approach designed to make the optimum use of the HTTP protocol.
+it&rsquo;s a set of rules that simplifies the communication over the internet using HTTP Methods.</p>]]></description>
+</item>
+</channel>
+</rss>
