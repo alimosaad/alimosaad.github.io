@@ -12,7 +12,8 @@
     <pubDate>Thu, 24 Jul 2025 12:16:00 &#43;0300</pubDate>
     <author>Ali Mosaad</author>
     <guid>http://localhost:1313/posts/simplepost/sim/</guid>
-    <description><![CDATA[<p><code>This Is Simple Blog</code></p>]]></description>
+    <description><![CDATA[<p><code>This Is Simple Blog to test!!</code>
+<code>just test</code></p>]]></description>
 </item>
 <item>
     <title>Simple Api Using Spring FrameWork</title>
