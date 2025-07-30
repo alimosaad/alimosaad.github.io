@@ -4,7 +4,30 @@
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | alimosaad</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>alimosaad573@gmail.com (Ali Mosaad)</managingEditor>
-            <webMaster>alimosaad573@gmail.com (Ali Mosaad)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Jul 2025 12:16:00 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>alimosaad573@gmail.com (Ali Mosaad)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 30 Jul 2025 09:58:07 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Spring MVC</title>
+    <link>http://localhost:1313/posts/mvc/mvc/</link>
+    <pubDate>Wed, 30 Jul 2025 09:58:07 &#43;0300</pubDate>
+    <author>Ali Mosaad</author>
+    <guid>http://localhost:1313/posts/mvc/mvc/</guid>
+    <description><![CDATA[<h1 id="spring-mvc">Spring MVC</h1>
+<h2 id="introduction">Introduction</h2>
+<p><strong><code>What is MVC?</code></strong> &ndash;&gt; Spring MVC is a web framework within spring framework that simplifies http request and response.
+MVC follows model-view-controller, it separates app into three component <code>--&gt;</code> model , view and controller.</p>
+<h2 id="feature-of-spring-mvc">Feature Of Spring MVC</h2>
+<ul>
+<li><strong><code>DispatcherServlet</code>:</strong> Acts as fron controller for spring app that manage http request and response .</li>
+<li><strong><code>Handler mapping</code>:</strong>  Maps incoming requests to appropriate controller methods based on configured URL patterns.</li>
+<li><strong><code>Controller</code>:</strong> Handle user requests, process input, and interact with the model to prepare data for the view.</li>
+<li><strong><code>Handler mapping</code>:</strong> Maps incoming requests to appropriate controller methods based on configured URL patterns.</li>
+<li><strong><code>View resolver</code>:</strong> Resolves logical view names returned by controllers to actual view implementations (e.g., JSP, Thymeleaf templates)</li>
+<li><strong><code>Model</code>:</strong> encapsulate business logic and data controller use model to pass data to view.</li>
+</ul>
+<h2 id="how-does-spring-mvc-work">How does Spring MVC work?</h2>
+<h3 id="mvc-archeticture"><code>MVC Archeticture</code></h3>
+<p></p>]]></description>
+</item>
+<item>
     <title>Simple blog</title>
     <link>http://localhost:1313/posts/simplepost/sim/</link>
     <pubDate>Thu, 24 Jul 2025 12:16:00 &#43;0300</pubDate>
